@@ -1,0 +1,111 @@
+.navContainer{
+    border:solid black;
+    height:36px;
+    border-width:0.2px;
+    display:flex;
+    justify-content:space-between;
+    background-color:lightgray;
+}
+.subNav{
+    border:solid green;
+    height:0.2px;
+    height:64px;
+    display:flex;
+    justify-content:space-evenly;
+}
+.scrollContainer{
+    border:solid peru;
+    background-color: lightgray;;
+    /* height:45px; */
+}
+.mainImg{
+    border:solid purple;
+    height:575px;
+    margin:1em;
+    padding:1em;
+    /* background-image:url("https://static.nike.com/a/images/f_auto,cs_srgb/w_1920,c_limit/a8319d25-280e-43df-ac47-c221f4295347/image.jpg") */
+}
+.midContainer{
+    border:solid blue;
+    height:22vh;
+    margin:1em;
+}
+.iconContainer{
+    /* border:solid red; */
+    display:flex;
+}
+.themeContainer{
+    /* border:solid blue; */
+    display:flex;
+    justify-content:space-evenly;
+    width:400px;
+}
+.logo{
+    border:solid pink;
+    margin:3px;
+    height:25px;
+
+}
+.theme{
+    text-align:right;
+    padding-top:6px;
+}
+.miniSub{
+    border:solid pink;
+}
+.nike{
+    /* border:solid blue; */
+    height:100%;
+    width:100%;
+}
+.menu{
+    border:solid lightblue;
+}
+.searchbar{
+    border:solid black;
+    border-radius:22px;
+    margin-top:15px;
+}
+.symbol{
+    height:30px;
+    padding:3px;
+    border:solid black;
+    border-radius:50%;
+}
+.symbol:hover{
+    height:30px;
+    border:solid turquoise;
+    background-color:green;
+}
+#flexer{
+    display:flex;
+    padding-top:15px;
+    justify-content:space-evenly;
+    width:32%;
+}
+#firstOne{
+    margin-right:2px;
+}
+.topTxt, .bottomTxt{
+    text-align:center;
+}
+.shoePic{
+    width:100%;
+}
+.slogan{
+    width:42%;
+}
+.shop{
+    font-size:22px;
+    padding:10px;
+    background-color: black;
+    color:rgb(255, 255, 255);
+    width:125px;
+    border:solid gray;
+    border-radius:22px;
+}
+.sneaker{
+    height:250px;
+    width:250px;
+    border:solid lime;
+}

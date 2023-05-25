@@ -1,0 +1,17 @@
+.box{
+    border:solid red;
+    height:90px;
+    width:90px;
+    /* margin:##px; add spaces outside the element space evenly on all sides */
+    /* margin-"side": ##px; add spaces outside the element on specified side*/
+    /* padding: ##px; add spaces inside the element space*/
+}
+.majorContainer{
+    border:solid lime;
+    margin:20px;
+}
+.square{
+    height:90px;
+    width:90px;
+    border:solid blue;
+}
